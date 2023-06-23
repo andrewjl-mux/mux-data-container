@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "mux-stats-sdk-avplayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/muxinc/mux-stats-sdk-avplayer.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8db87f260052cbf9da2142c26f2839002f8d3a28"
+      }
+    },
+    {
+      "identity" : "stats-sdk-objc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/muxinc/stats-sdk-objc.git",
+      "state" : {
+        "revision" : "9e430931d3ef0a2e4607acf953aebe2b0b21c285",
+        "version" : "4.5.1"
+      }
+    }
+  ],
+  "version" : 2
+}
